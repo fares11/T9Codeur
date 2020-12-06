@@ -1,6 +1,6 @@
 # T9Codeur
 
-#créer un projet console et ajouter les classe puis lancer Démarrer 
+#créer un projet console et ajouter les classes suivantes, puis lancer Démarrer 
 
 #Classe Program.cs : l'exécution du l'algorithme dans la méthode Main
 
