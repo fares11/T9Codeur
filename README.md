@@ -5,5 +5,3 @@
 #Classe Program.cs : l'exécution du l'algorithme dans la méthode Main
 
 #T9.cs: pour la création des méthodes pour le codeur T9
-
-#Utils.cs: afin d'avoir tout ce qui est méthode static dans une classe sépraée et réutilisable.
