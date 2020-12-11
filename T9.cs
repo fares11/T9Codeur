@@ -16,7 +16,7 @@ namespace ConsoleApp1
       //Normalizes unicode characters
       string normalizedText = msg.Normalize(NormalizationForm.FormD);
       StringBuilder encodedNumber = new StringBuilder();
-        foreach (char value in msg)
+        foreach (char value in normalizedText)
         {
           //Obtains unicode character category
           UnicodeCategory unicodeChar = CharUnicodeInfo.GetUnicodeCategory(value);
